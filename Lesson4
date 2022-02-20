@@ -40,10 +40,6 @@ if ans1 in answer_match:
         if ans4 in answer_follow:
             print("\nYou start following the path")
 
-#You start looking around 
-           # ans5 = input(">>")    
-        #elif ans5 in answer_look:
-            #print("\nYou start looking in the trees")
 
 
 
